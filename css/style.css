@@ -600,6 +600,7 @@ blockquote p {
 	display: block;
 	text-align: right;
 	font-size: 0;
+	letter-spacing: 0;
 }
 
 .header-nav li {
