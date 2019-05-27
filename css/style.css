@@ -5,7 +5,7 @@
 	src: url('../fonts/dosis-light.woff2') format('woff2'),
 		url('../fonts/dosis-light.woff') format('woff');
 	font-weight: 300;
-	font-style: normal;
+	font-style: 400;
 	font-display: swap;
 }
 
